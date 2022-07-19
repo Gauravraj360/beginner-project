@@ -21,9 +21,9 @@ body{
 .container{
     background-color: hsl(212, 45%, 89%) ;
     position: relative;
-    width:90rem;
+    width:auto;
     height: 45rem;
-    margin: 3.125rem auto;
+    margin: 3.125rem 2.5rem;
     
 
 }
