@@ -28,7 +28,7 @@ body{
 
 }
 .container-child{
-    background-color: #f0f0f0;
+    background-color: white;
     position: relative;
     width: 17.188rem;
     height:29.188rem;
@@ -47,7 +47,7 @@ body{
 .description{ 
     text-align:center;
     line-height: 1.5;
-    margin: auto 20px;
+    margin: 0 20px;
 }
 
    
