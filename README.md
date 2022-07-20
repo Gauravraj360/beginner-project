@@ -79,10 +79,9 @@ I want to know more about positioning in CSS as I was very confusing while posit
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [w3schools](https://www.w3schools.com) - This helped me . I really liked this website pattern for any beginners and I will use it going forward.
+- [mdn documentation](https://www.devdocs.io) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
