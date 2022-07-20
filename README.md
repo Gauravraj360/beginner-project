@@ -20,8 +20,8 @@ This is a QR code component that can be used in any e-commerce websites.
 
 ### Screenshot
 
-![](.desktop-version.jpg)
-![](.mobile-version.jpg)
+![Desktop Version](desktop-version.jpg)
+![Mobile Version](mobile-version.jpg)
 
 ### Links
 
